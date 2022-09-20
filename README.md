@@ -1,2 +1,2 @@
 # LoadInformationFromTextFile
-Load information From Text File. 
+Load information From Text File
